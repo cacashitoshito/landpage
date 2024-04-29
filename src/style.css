@@ -28,7 +28,7 @@ box-sizing: border-box;
     list-style: none;
 
 }
-.header ul li Link{
+.header ul li a{
     text-decoration: none;
     color:#0cc0df ;
 }
