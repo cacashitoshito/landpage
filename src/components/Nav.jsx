@@ -12,10 +12,10 @@ function Nav(){
 </div>
 <ul>
 <BrowserRouter>
-    <li><Link  className="Link" href="#">Home</Link></li>
-    <li><Link className="Link" href="#">Product</Link></li>
-    <li><Link className="Link" href="#">About</Link></li>
-    <li><Link className="Link" href="#">Contact</Link></li>
+    <li><a  className="Link" href="#">Home</a></li>
+    <li><a className="Link" href="#">Product</a></li>
+    <li><a className="Link" href="#">About</a></li>
+    <li><a className="Link" href="#">Contact</a></li>
     </BrowserRouter>
 </ul>
 

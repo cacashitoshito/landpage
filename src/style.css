@@ -27,11 +27,14 @@ box-sizing: border-box;
     margin-right: 20px;
     list-style: none;
 
+
 }
-.header ul li Link{
+.header ul li a{
     text-decoration: none;
     color:#0cc0df ;
+    
 }
+
 .container{
     width: 100%;
     display: flex;
